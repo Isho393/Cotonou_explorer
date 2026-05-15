@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Explorez",
+    "titleHighlight": "Cotonou",
+    "subtitle": "Trouvez instantanément n'importe quel lieu grâce à l'intelligence artificielle",
+    "location": "Cotonou, Bénin",
+    "poweredBy": "CotonouSearch — Alimenté par Ishola & CO"
+  },
+  "search": {
+    "placeholder": "Hôtel, restaurant, hôpital, pharmacie...",
+    "button": "Rechercher",
+    "clear": "Effacer",
+    "loading": "Recherche en cours...",
+    "noResults": "Aucun résultat",
+    "noResultsDesc": "Essayez un autre terme de recherche",
+    "resultsCount": "résultat",
+    "resultsCountPlural": "résultats",
+    "found": "trouvé",
+    "foundPlural": "trouvés",
+    "sortedBy": "Triés par note"
+  },
+  "categories": {
+    "hotels": "Hôtels",
+    "restaurants": "Restaurants",
+    "hospitals": "Hôpitaux",
+    "pharmacies": "Pharmacies",
+    "banks": "Banques",
+    "markets": "Marchés",
+    "schools": "Écoles",
+    "supermarkets": "Supermarchés",
+    "transport": "Transport",
+    "publicServices": "Services publics",
+    "worship": "Culte",
+    "tourism": "Tourisme",
+    "beauty": "Beauté",
+    "fuel": "Carburant",
+    "realEstate": "Immobilier",
+    "telecom": "Télécom",
+    "leisure": "Loisirs",
+    "professional": "Services pro",
+    "entertainment": "Sortir"
+  },
+  "suggestions": {
+    "title": "Suggestions populaires",
+    "bestHotel": "Meilleur hôtel à Cotonou",
+    "traditionalRestaurant": "Restaurant traditionnel béninois",
+    "emergency": "Urgences médicales 24h/24",
+    "pharmacy": "Pharmacie de garde",
+    "market": "Marché Dantokpa",
+    "bankAtm": "Banque avec distributeur"
+  },
+  "ai": {
+    "label": "Assistant IA"
+  },
+  "hero": {
+    "title": "La Perle de l'Atlantique",
+    "subtitle": "Cotonou — capitale économique du Bénin"
+  },
+  "place": {
+    "phone": "Téléphone",
+    "hours": "Horaires",
+    "address": "Adresse",
+    "rating": "Note"
+  }
+}

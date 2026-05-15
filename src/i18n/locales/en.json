@@ -1,0 +1,65 @@
+{
+  "app": {
+    "title": "Explore",
+    "titleHighlight": "Cotonou",
+    "subtitle": "Find any place instantly with artificial intelligence",
+    "location": "Cotonou, Benin",
+    "poweredBy": "CotonouSearch — Powered by Ishola & CO"
+  },
+  "search": {
+    "placeholder": "Hotel, restaurant, hospital, pharmacy...",
+    "button": "Search",
+    "clear": "Clear",
+    "loading": "Searching...",
+    "noResults": "No results",
+    "noResultsDesc": "Try another search term",
+    "resultsCount": "result",
+    "resultsCountPlural": "results",
+    "found": "found",
+    "foundPlural": "found",
+    "sortedBy": "Sorted by rating"
+  },
+  "categories": {
+    "hotels": "Hotels",
+    "restaurants": "Restaurants",
+    "hospitals": "Hospitals",
+    "pharmacies": "Pharmacies",
+    "banks": "Banks",
+    "markets": "Markets",
+    "schools": "Schools",
+    "supermarkets": "Supermarkets",
+    "transport": "Transport",
+    "publicServices": "Public Services",
+    "worship": "Worship",
+    "tourism": "Tourism",
+    "beauty": "Beauty",
+    "fuel": "Gas Stations",
+    "realEstate": "Real Estate",
+    "telecom": "Telecom",
+    "leisure": "Leisure",
+    "professional": "Professional",
+    "entertainment": "Entertainment"
+  },
+  "suggestions": {
+    "title": "Popular suggestions",
+    "bestHotel": "Best hotel in Cotonou",
+    "traditionalRestaurant": "Traditional Beninese restaurant",
+    "emergency": "24/7 medical emergency",
+    "pharmacy": "Pharmacy on duty",
+    "market": "Dantokpa Market",
+    "bankAtm": "Bank with ATM"
+  },
+  "ai": {
+    "label": "AI Assistant"
+  },
+  "hero": {
+    "title": "The Pearl of the Atlantic",
+    "subtitle": "Cotonou — economic capital of Benin"
+  },
+  "place": {
+    "phone": "Phone",
+    "hours": "Hours",
+    "address": "Address",
+    "rating": "Rating"
+  }
+}
