@@ -15,18 +15,21 @@ const resources = {
 };
 
 i18n
-  .use(LanguageDetector) // Détecte automatiquement la langue du navigateur
-  .use(initReactI18next) // Passe i18n à react-i18next
+  .use(LanguageDetector)
+  .use(initReactI18next)
   .init({
     resources,
-    fallbackLng: 'fr', // Langue par défaut
-    lng: 'fr', // Langue initiale
+    fallbackLng: 'fr',
+    lng: 'fr',
     interpolation: {
-      escapeValue: false, // React échappe déjà les valeurs
+      escapeValue: false,
     },
     detection: {
-      order: ['localStorage', 'navigator'], // Ordre de détection
-      caches: ['localStorage'], // Sauvegarde la préférence
+      order: ['localStorage', 'navigator'],
+      caches: ['localStorage'],
+    },
+    react: {
+      useSuspense: false, // Désactive Suspense pour un chargement plus rapide
     },
   });
 
